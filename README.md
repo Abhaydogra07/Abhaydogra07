@@ -15,12 +15,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="![image](https://github.com/user-attachments/assets/0040bbb3-3f98-4976-8fd1-c5772964fb7d)
-"   />
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhaydogra07&theme=gotham&show_icons=true&hide_border=true&count_private=true"   />
     </td>
     <td>
-      <img src="![image](https://github.com/user-attachments/assets/18c62676-4e76-4f19-b675-b12981301a64)
-" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhaydogra07&theme=gotham&hide_border=true" />
     </td>
   </tr>
 </table>
